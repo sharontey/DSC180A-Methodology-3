@@ -1,4 +1,3 @@
 # DSC180A-Methodology-3
 
-Sharon Tey
-stey@ucsd.edu
+Sharon Tey and Justin Lee
